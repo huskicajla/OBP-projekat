@@ -1,0 +1,3 @@
+arch,with_index,pool,param_mode,concurrency,rounds,p50_ms,p95_ms
+3-tier,True,ON,on,10,5,53.084,118.961
+3-tier,True,OFF,on,10,5,37.503,63.896
